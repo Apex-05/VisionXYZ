@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" fill="none">
+  <rect width="192" height="192" rx="32" fill="#000000"/>
+  <rect x="16" y="16" width="160" height="160" rx="24" fill="#0a0a0a" stroke="#00d4ff" stroke-width="2"/>
+  <!-- Camera lens -->
+  <circle cx="96" cy="90" r="36" stroke="#00d4ff" stroke-width="3" fill="none"/>
+  <circle cx="96" cy="90" r="24" stroke="#00ff88" stroke-width="2" fill="none" opacity="0.7"/>
+  <circle cx="96" cy="90" r="10" fill="#00d4ff" opacity="0.4"/>
+  <!-- Corner brackets -->
+  <path d="M40 40 L40 56 M40 40 L56 40" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M152 40 L152 56 M152 40 L136 40" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 152 L40 136 M40 152 L56 152" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M152 152 L152 136 M152 152 L136 152" stroke="#00d4ff" stroke-width="3" stroke-linecap="round"/>
+  <!-- V text -->
+  <text x="78" y="148" font-family="monospace" font-size="18" font-weight="bold" fill="#00d4ff">XYZ</text>
+</svg>

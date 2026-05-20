@@ -1,0 +1,35 @@
+{
+  "name": "VisionXYZ — Edge AI Camera",
+  "short_name": "VisionXYZ",
+  "description": "Privacy-first computational photography platform. All AI runs locally on your device.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "any",
+  "categories": ["photography", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Open Camera",
+      "short_name": "Camera",
+      "description": "Open VisionXYZ camera directly",
+      "url": "/"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
