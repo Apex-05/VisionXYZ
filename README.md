@@ -1,6 +1,6 @@
 # VisionXYZ
 
-**Privacy-first edge AI computational photography platform — by Apex-05**
+**Privacy-first edge AI computational photography platform.**
 
 > A learning project. Everything runs on your device. No cloud. No uploads. No backend.
 
@@ -8,7 +8,7 @@
 
 ## About
 
-VisionXYZ is a learning project exploring what is possible when you combine real-time computer vision, computational photography, and in-browser AI inference — all without sending a single frame to a server.
+VisionXYZ is a learning project exploring what is possible when you combine real-time computer vision, computational photography, and in-browser AI inference - all without sending a single frame to a server.
 
 **This is explicitly a learning project.** Some functionalities may be unstable, break on certain browsers/devices, or produce unexpected results. Contributions, fixes, and ideas are very welcome.
 
