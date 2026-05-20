@@ -8,7 +8,7 @@
 
 ## About
 
-VisionXYZ is a semester-break learning project exploring what is possible when you combine real-time computer vision, computational photography, and in-browser AI inference — all without sending a single frame to a server.
+VisionXYZ is a learning project exploring what is possible when you combine real-time computer vision, computational photography, and in-browser AI inference — all without sending a single frame to a server.
 
 **This is explicitly a learning project.** Some functionalities may be unstable, break on certain browsers/devices, or produce unexpected results. Contributions, fixes, and ideas are very welcome.
 
@@ -144,19 +144,6 @@ public/         manifest.json, sw.js, icons, ONNX WASM binaries
 
 ---
 
-## Deployment
-
-Push to GitHub, import on [vercel.com/new](https://vercel.com/new). No environment variables needed. The build is entirely static/client-side.
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-# push to GitHub, then import on Vercel
-```
-
----
-
 ## Known Limitations
 
 - **Portrait mode** may be slow on lower-end devices (MediaPipe segmentation cost)
@@ -201,5 +188,3 @@ If something is broken or behaving unexpectedly, please open an issue. Given thi
 - Works fully offline after first load
 
 ---
-
-*VisionXYZ — semester break project by Apex-05. Built to learn, not to ship.*
